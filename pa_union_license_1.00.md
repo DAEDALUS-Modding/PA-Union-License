@@ -10,8 +10,8 @@
 3. The PA Union Team is represented by **the Github organization "union-expansion"**; *the PA Union Team reserves the right to edit the bolded portion of this particular clause to reflect potential changes in representation in the future.*
 
 4. The Union Unofficial Expansion for Planetary Annihilation project may sometimes distribute content that is not submitted under the terms of this license; these files will be marked clearly as such.
-	a. Assets submitted under the terms of this license (The Planetary Annihilation: UNION License) will reside in the high-level folder labeled **"union_license"**; *the PA Union Team reserves the right to edit the bolded portion of this particular clause.*
-	b. Assets NOT submitted under the terms of this license (The Planetary Annihilation: UNION License) will reside in the high-level folder labeled **"other_license"**; *the PA Union Team reserves the right to edit the bolded portion of this particular clause.*
+    1. Assets submitted under the terms of this license (The Planetary Annihilation: UNION License) will reside in the high-level folder labeled **"union_license"**; *the PA Union Team reserves the right to edit the bolded portion of this particular clause.*
+	2. Assets NOT submitted under the terms of this license (The Planetary Annihilation: UNION License) will reside in the high-level folder labeled **"other_license"**; *the PA Union Team reserves the right to edit the bolded portion of this particular clause.*
 
 ## TERMS OF SUBMISSION
 Contributors to the Union Unofficial Expansion for Planetary Annihilation Project who submit assets from **(DATE 1)** until **(DATE 2)** recognize these following details:
